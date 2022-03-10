@@ -1,7 +1,7 @@
  <div>
-  <a href="https://github.com/fabiohenrique">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiohenrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiohenrique&layout=compact&langs_count=6&theme=tokyonight"/>
+  <a href="https://github.com/FabioHenriqueBrOne">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioHenriqueBrOne&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioHenriqueBrOne&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,7 +20,7 @@
    <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
  
-  ![Snake animation](https://github.com/fabiohenrique/fabiohenrique/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/FabioHenriqueBrOne/FabioHenriqueBrOne/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
